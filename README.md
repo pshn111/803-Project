@@ -12,8 +12,7 @@
 
 ## Datasets
 
-* GOPRO_Large: [link](https://seungjunnah.github.io/Datasets/gopro)
-* REDS: [link](https://seungjunnah.github.io/Datasets/reds)
+* GOPRO_Large: [link](https://drive.google.com/file/d/1H0PIXvJH4c40pk7ou6nAwoxuR4Qh_Sa2/view)
 
 ## Usage examples
 
